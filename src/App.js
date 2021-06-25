@@ -5,11 +5,11 @@ function App() {
   return (
     <div>
       <h1>Contact Us</h1>
-      <form name="contact Web"
+      <form name="contact v1"
        method="post"
        data-netlify="true" 
        onSubmit="submit">
-         <input type="hidden" name="form-name" value="contact Web"/>
+         <input type="hidden" name="form-name" value="contact v1"/>
          <div>
            <label>
              First Name:<br></br>
